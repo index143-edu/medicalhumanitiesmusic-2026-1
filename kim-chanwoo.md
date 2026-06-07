@@ -28,15 +28,13 @@ From the perspective of illness narrative, the song gains a different meaning af
 
 ## 영상 링크
 
-- Riz Ahmed - “Mogambo”: https://www.youtube.com/watch?v=F-lAPR5EWAs&list=RDF-lAPR5EWAs&start_radio=1
+Riz Ahmed - “Mogambo”: https://www.youtube.com/watch?v=F-lAPR5EWAs&list=RDF-lAPR5EWAs&start_radio=1
 
 ## AI 생성 이미지
 
 <img src="./mogul-mowgli-ai-image.png.png" alt="AI-generated image representing Mogul Mowgli, musical identity, and bodily vulnerability" style="width:35%;" />
 
 이 AI 생성 이미지는 무대 위에서 마이크를 든 래퍼와 그의 몸 주변에 떠오르는 면역세포, 신체의 균열, 병실을 연상시키는 분위기를 한 화면에 배치한다. 무대 조명 아래의 래퍼는 “Mogambo”가 드러내는 강한 예술적 정체성과 저항의 에너지를 상징하고, 주변의 면역세포와 균열은 자가면역질환으로 인해 자신의 몸을 더 이상 이전처럼 통제할 수 없게 된 제드의 경험을 나타낸다. 이 이미지는 음악적 목소리의 강인함과 신체적 취약성이 동시에 존재하는 영화의 핵심 긴장을 시각적으로 보완한다.
-
-## 관련 항목
 
 ## 관련 항목
 
